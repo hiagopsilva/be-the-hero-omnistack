@@ -1,6 +1,6 @@
 # Be-The-Hero-backend
 
-Projeto desenvolvido com a finalidad de ajudar Ongs (sem fins lucrativos), onde todos podem ajudar com um valor contribuindo para os casos da Ong especifica.
+Projeto desenvolvido com a finalidade de ajudar Ongs (sem fins lucrativos), onde todos podem ajudar com um valor contribuindo para os casos da Ong especifica.
 
 Projeto desenvolvido através da Semana Omnistack 11 da Rocketseat.
 
