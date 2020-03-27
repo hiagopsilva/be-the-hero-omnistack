@@ -6,7 +6,7 @@ Projeto desenvolvido através da Semana Omnistack 11 da Rocketseat.
 
 backend: https://github.com/hiagopsilva/Be-The-Hero-backend
 
-fontend: https://github.com/hiagopsilva/Be-The-Hero-frontend
+frontend: https://github.com/hiagopsilva/Be-The-Hero-frontend
 
 mobile: Em breve.
 
