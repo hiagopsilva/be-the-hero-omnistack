@@ -8,7 +8,7 @@ backend: https://github.com/hiagopsilva/Be-The-Hero-backend
 
 frontend: https://github.com/hiagopsilva/Be-The-Hero-frontend
 
-mobile: Em breve.
+mobile: https://github.com/hiagopsilva/Be-The-Hero-mobile.
 
 ## Dependências utilizadas
 - Express
