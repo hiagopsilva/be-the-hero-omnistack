@@ -22,7 +22,6 @@ Be The Hero é um projeto desenvolvido com a finalidade de ajudar Ongs a consegu
 ```
 yarn
 yarn start
-
 ```
 
 O projeto será executado na porta ```localhost:3333```
