@@ -1,21 +1,28 @@
-# Be The Hero Frontend
+<h1 align="center"> Be The Hero - Backend</h1>
+<p align="center"> Aplicação desenvolvida na Semana Ominstack 11 da Rocketseat. </p>
+ 
+## Projeto
+Be The Hero é um projeto desenvolvido com a finalidade de ajudar Ongs a conseguirem recursos.
 
-Projeto desenvolvido com a finalidade de ajudar Ongs (sem fins lucrativos), onde todos podem ajudar com um valor contribuindo para os casos da Ong especifica.
+## Features
 
-Projeto desenvolvido através da Semana Omnistack 11 da Rocketseat.
+- **Node Js** 
+- **Knex**
+- **Express**
+- ***Crypto(Express)***
+- ***Nodemon***
+- ***Cors***
 
-backend: https://github.com/hiagopsilva/Be-The-Hero-backend
+### Como utilizar
 
-frontend: https://github.com/hiagopsilva/Be-The-Hero-frontend
+- Clone o repositório em uma pasta local da sua máquina.
+- Abra o prompt de comando e entre na pasta onde o respositório esta clonado.
 
-mobile: https://github.com/hiagopsilva/Be-The-Hero-mobile.
+# Execute os comandos abaixo:
+```
+yarn
+yarn start
 
-## Dependências utilizadas
-- Express
-- Crypto(Express)
-- Nodemon
-- Cors
+```
 
-# Database
-- SqLite
-- Knex
+O projeto será executado na porta ```localhost:3333```
