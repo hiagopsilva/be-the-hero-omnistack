@@ -25,3 +25,7 @@ yarn start
 ```
 
 O projeto será executado na porta ```localhost:3333```
+
+### Link do repositório Front-end e Mobile do projeto
+***Front-end:*** https://github.com/hiagopsilva/Be-The-Hero-frontend
+***Mobile:*** https://github.com/hiagopsilva/Be-The-Hero-mobile
