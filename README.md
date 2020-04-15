@@ -9,9 +9,9 @@ Be The Hero é um projeto desenvolvido com a finalidade de ajudar Ongs a consegu
 - **Node Js** 
 - **Knex**
 - **Express**
-- ***Crypto(Express)***
-- ***Nodemon***
-- ***Cors***
+- **Crypto(Express)**
+- **Nodemon**
+- **Cors**
 
 ### Como utilizar
 
@@ -27,5 +27,6 @@ yarn start
 O projeto será executado na porta ```localhost:3333```
 
 ### Link do repositório Front-end e Mobile do projeto
-***Front-end:*** https://github.com/hiagopsilva/Be-The-Hero-frontend
-***Mobile:*** https://github.com/hiagopsilva/Be-The-Hero-mobile
+**Front-end:** https://github.com/hiagopsilva/Be-The-Hero-frontend
+
+**Mobile:** https://github.com/hiagopsilva/Be-The-Hero-mobile
