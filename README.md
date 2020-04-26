@@ -12,6 +12,7 @@ Be The Hero é um projeto desenvolvido com a finalidade de ajudar Ongs a consegu
 - **Crypto(Express)**
 - **Nodemon**
 - **Cors**
+- **Celebrate**
 
 ### Como utilizar
 
